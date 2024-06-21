@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1</name>
+   <tag></tag>
+   <elementGuidId>1d911d13-1a29-4abf-9866-866d99c2ac7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='sendbird-message-input-text-field'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7a0e20f2-2da9-4b1e-993f-c5b8e66942cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>26e059e1-cbbb-45dd-8775-c868466866cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 64 64</value>
+      <webElementGuid>af8d35f8-ce7c-4e77-9ba7-371f481403de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sendbird-app__wrap&quot;]/div[@class=&quot;sendbird-app__conversation-wrap&quot;]/div[@class=&quot;sendbird-conversation&quot;]/div[@class=&quot;sendbird-conversation__footer&quot;]/div[@class=&quot;sendbird-message-input-wrapper&quot;]/form[@class=&quot;sendbird-message-input-wrapper__message-input&quot;]/div[@class=&quot;sendbird-message-input&quot;]/button[@class=&quot;sendbird-message-input--send sendbird-iconbutton&quot;]/span[@class=&quot;sendbird-iconbutton__inner&quot;]/div[@class=&quot;sendbird-icon sendbird-icon-send sendbird-icon-color--primary&quot;]/svg[1]</value>
+      <webElementGuid>ab72cf27-c04f-4fd9-926f-8088edbe47ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='halo'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8d1e8c8a-4e40-4df5-9287-9f4674cecc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='richnicolaus01 and richnicolaus1 joined.'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ab73facf-f411-4ad8-86fe-6418453d4125</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
